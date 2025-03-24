@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning implementation with multiple programming language**
 
-- 👯 I’m collaborating on [Using random forest model to predict Woodcock observation rate](https://xiaonixu.github.io/timberdoodle.github.io/)
-
 - 🤝 I’m looking for help with **Data analyst opportunities in business**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Xuuuuyeah](https://github.com/Xuuuuyeah)
