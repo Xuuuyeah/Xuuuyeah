@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Yiran</h1>
 <h3 align="center">A Master Student in Public Health Data Science</h3>
 
-- 🔭 I’m currently working on **Improving rare disease diagnosis rate by AI model**
+- 🔭 I’m currently working on **Improving rare disease diagnosis rate by AI model** and **Enterprise Agentic AI system design and development**
 
 - 🌱 I’m currently learning **Machine Learning implementation with multiple programming language**
 
-- 🤝 I’m looking for help with **Data analyst opportunities in business**
+- 🤝 I’m looking for help with **AI Agent/ML/DS** Roles
 
-- 👨‍💻 All of my projects are available at [https://github.com/Xuuuuyeah](https://github.com/Xuuuuyeah)
+- 👨‍💻 Some of my public projects are available at [https://github.com/Xuuuuyeah](https://github.com/Xuuuuyeah)
 
 - 📫 How to reach me **yx2954@cumc.columbia.edu**
 
